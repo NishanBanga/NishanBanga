@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bonjour, This is Nishan 👋
 
-<!--
-**NishanBanga/NishanBanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently in 3rd year persuing Computer Science Engineering.
+- 👯 I’m looking to collaborate with IT Sector's, Social Media's and Youtube as well.
+- 🤔 I’m looking for serving in your esteemed company and help in getting some productive job done.
+- 💬 Ask me about any tech related stuffs and politics aw well.
+- 📫 How to reach me: Mail id- banganishan@gmail.com
+-                     Contact- 9835923292
+-                     Twitter- @nishan_banga
+-                     Instagram- nishanbanga
+- 😄 Pronouns: He/Him/His 
+- ⚡ Fun fact: I spend 12hrs in coding everday.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
