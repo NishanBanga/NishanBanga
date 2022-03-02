@@ -1,6 +1,6 @@
 ### Bonjour, This is Nishan 👋
 
-- 🔭 I’m currently in 3rd year persuing Computer Science Engineering.
+- 🔭 I’m currently in 4rd year persuing Computer Science Engineering.
 - 👯 I’m looking to collaborate with IT Sector's, Social Media's and Youtube as well.
 - 🤔 I’m looking for serving in your esteemed company and help in getting some productive job done.
 - 💬 Ask me about any tech related stuffs and politics aw well.
